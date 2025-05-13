@@ -7,3 +7,4 @@ https://de.aliexpress.com/item/32832538686.html?spm=a2g0s.9042311.0.0.27424c4dEE
 Relais (3-Kanal):
 https://de.aliexpress.com/item/1005005778053922.html?spm=a2g0o.productlist.main.2.98d969d6KfrGpf&algo_pvid=dfa27a3b-8762-4ce6-91ef-eaaf9794ce81&algo_exp_id=dfa27a3b-8762-4ce6-91ef-eaaf9794ce81-1&pdp_ext_f=%7B%22order%22%3A%2227%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%212.23%211.65%21%21%212.42%211.79%21%40211b618e17471356857321319ecee5%2112000047212333321%21sea%21DE%210%21ABX&curPageLogUid=NBE8eK8NmGke&utparam-url=scene%3Asearch%7Cquery_from%3A
 
+Zudem wird ein Arduino Uno oder sonstiger Microcontroller benötigt.

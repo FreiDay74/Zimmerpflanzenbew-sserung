@@ -1,2 +1,2 @@
-# Zimmerpflanzenbew-sserung
+# Zimmerpflanzenbewaesserung
 Eine Bewässerung für Zimmerpflanzen
